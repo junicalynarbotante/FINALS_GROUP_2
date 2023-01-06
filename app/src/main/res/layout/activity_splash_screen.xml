@@ -24,9 +24,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="50dp"
             android:gravity="center"
-            android:text="App Title"
+            android:text="Open Skills \nNexus"
             android:textColor="@color/white"
             android:textStyle="bold"
             android:textSize="50dp" />

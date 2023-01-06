@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013424888527",
+    "project_id": "openskills-2298c",
+    "storage_bucket": "openskills-2298c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013424888527:android:2cfb2f31202fda96f0b5ba",
+        "android_client_info": {
+          "package_name": "com.example.openskills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013424888527-brj9od3gpv1ptssprn6jpl1gvucp2blv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37GUZIvyOSE7BRKgcrDv_pdvD285htHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013424888527-brj9od3gpv1ptssprn6jpl1gvucp2blv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
